@@ -2,6 +2,7 @@ html {
     /**Reset para rems**/
     font-size: 62.5%;
     box-sizing: border-box;
+    font-family: 'Times New Roman', serif;
 }
 
 *,
@@ -69,6 +70,8 @@ html {
     color: #0077b5;
   }
   
+
+
 
 
   .section-1 {
@@ -184,12 +187,15 @@ html {
   }
 
 
+
+
+
   .section-2{
     background-color: #f3f2f0;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 55rem;
+    height: 50rem;
   }
 
   .contenedor-busquedassugeridas{
@@ -244,4 +250,46 @@ html {
     margin-top: 20px;
     font-size: 18px;
     font-weight: bold;
+  }
+
+
+
+  .section-3{
+    background-color: #f1ece5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35rem;
+  }
+
+  .publica-empleo{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .publicaempleo-text{
+    width: 35%;
+  }
+
+  .publicaempleo-text h2 {
+    color: #b24020;
+    font-size: 5rem;
+  }
+
+  .publicaempleo-boton{
+    display: flex;
+    align-items: start;
+    margin: 16.5%;
+  }
+
+  .publicaempleo-boton button {
+    font-size: 2rem;
+    margin: 0;
+    padding: 1rem 2rem;
+    border-radius: 3rem;
+    border: 2px solid #0077b5;
+    background-color: transparent;
+    color: #0077b5;
   }
