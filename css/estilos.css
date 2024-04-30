@@ -12,6 +12,7 @@ html {
 }
 
 
+/*dieño del nav*/
   nav {
     display: flex;
     justify-content: space-between;
@@ -73,7 +74,7 @@ html {
 
 
 
-
+/*creacion el inicio sesion (taba dificil socio 7-7 )*/
   .section-1 {
     display: flex;
     align-items: center;
@@ -189,7 +190,7 @@ html {
 
 
 
-
+/*encuentra empleo */
   .section-2{
     background-color: #f3f2f0;
     display: flex;
@@ -255,6 +256,9 @@ html {
 
 
 
+
+
+  /*publicar empleo*/
   .section-3{
     background-color: #f1ece5;
     display: flex;
@@ -295,7 +299,8 @@ html {
 
 
 
-
+  
+  /*herramientas de sofware*/
   .section-4{
     background-color: #fff;
     display: flex;
@@ -368,7 +373,7 @@ html {
 
 
 
-
+/*busqueda empleo*/
   .open-work{
     display: flex;
     background-color: #f1ece5;
@@ -401,6 +406,8 @@ html {
 
 
 
+
+  /*encontrar gente*/
   .section-5 {
     display: flex;
     justify-content: center;
@@ -471,6 +478,7 @@ html {
 
 
   
+  /*para quien es*/
   .section-6 {
     background-color: #f3f2f0;
     display: flex;
@@ -484,6 +492,8 @@ html {
     align-items: center;
   }
 
+
+  /*no se como hacer la sepaacion entre la img y el texto 7-7*/
   .paraquienes-texto{
     margin-top: 10%;
     font-size: 3rem;
@@ -529,7 +539,7 @@ html {
 
 
 
-
+/*creacion del footer (lo mas facil del proyecto xd)*/
   footer {
     padding: 20px 0;
   }
