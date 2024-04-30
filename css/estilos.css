@@ -13,6 +13,7 @@ html {
 
 
 /*dieño del nav*/
+/*no puse los iconos del ul pq no me dejo descargarlos jejej*/
   nav {
     display: flex;
     justify-content: space-between;
